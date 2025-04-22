@@ -398,3 +398,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Fichiers de certification et clés mkcert (local HTTPS):
+*.pem
